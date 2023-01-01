@@ -1,5 +1,1 @@
-service:
-  type: NodePort
-  port: 80
-  targetPort: 80
-  nodePort: 30335
+replicaCount: 3
